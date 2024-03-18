@@ -4,4 +4,5 @@ public class Cliente {
     private int agencia;
     private double saldo;
     private String telefone;
+    private String sobrenome;
 }

@@ -64,8 +64,12 @@
       <workItem from="1710171698503" duration="15000" />
       <workItem from="1710171717219" duration="7000" />
       <workItem from="1710171737982" duration="39000" />
+<<<<<<< HEAD
       <workItem from="1710328064597" duration="4000" />
       <workItem from="1710777884292" duration="75000" />
+=======
+      <workItem from="1710777853393" duration="77000" />
+>>>>>>> origin/classe-cliente
     </task>
     <servers />
   </component>
